@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Local Weather</string>
+    <string name="today">Today</string>
+    <string name="weekly">Weekly</string>
+    <string name="currently">Currently</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="rain">Rain</string>
+    <string name="drizzle">Drizzle</string>
+    <string name="thunder">Thunder storm</string>
+    <string name="snow">Snow</string>
+    <string name="atmosphere">Atmospheric conditions</string>
+    <string name="clear">Clear</string>
+
+    <string name="settings">Settings</string>
+    <string name="continuous">Continuous</string>
+    <string name="location">location</string>
+    <string name="time">Time</string>
+    <string name="warning">Warning</string>
+
+    <string name="permissions_needed">Permissions are needed.</string>
+    <string name="weather_condition_image">weather condition image</string>
+    <string name="error">Error</string>
+    <string name="weather_description">Weather description</string>
+    <string name="refresh">Refresh</string>
+    <string name="daily">Daily</string>
+    <string name="hourly">Hourly</string>
+    <string name="location_updating">Location: Updating</string>
+    <string name="acquiring_location">Acquiring location…</string>
+    
+    <string name="unit_imperial">Deg. F</string>
+    <string name="unit_metric">Deg. C</string>
+    <string name="unit_standard">Kalvin</string>
+
+    <string name="unit_imperial_long">Fahrenheit</string>
+    <string name="unit_metric_Long">Celsius</string>
+    <string name="unit_standard_ling">Kalvin</string>
+
+    <string name="units_imperial_wind_speed">Miles/Hour</string>
+    <string name="units_metric_wind_speed">Meters/Second</string>
+    <string name="units_standard_wind_speed">Meters/Second</string>
+    <string name="refresh_button">Refresh Button</string>
+
+
+</resources>
